@@ -25,6 +25,7 @@
     "js-beautify": "^1.15.1",
     "jszip": "^3.7.1",
     "lop": "^0.4.1",
+    "lodash": "^4.17.21",
     "path-is-absolute": "^1.0.0",
     "underscore": "^1.13.1",
     "xmlbuilder": "^10.0.0"
